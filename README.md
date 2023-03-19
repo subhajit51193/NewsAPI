@@ -57,8 +57,8 @@ Install main file after that create new google sheet and link AppScript with bel
   
 }
 ```
-   Now we have the API for top 5 news. No we can create new bot from Telegram and add a button so that upon clicking it it can share all the news with us.
-   My Ref- https://www.youtube.com/watch?v=wurbOxEo_rI
+   Now we have the API for top 5 news. No we can create new bot and channel from Telegram and share all the news with members.
+   My Ref- https://www.youtube.com/watch?v=ovYHbxe4E5w
 ## Demo
 
 Insert gif or link to demo
