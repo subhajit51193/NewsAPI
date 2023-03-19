@@ -61,7 +61,7 @@ Install main file after that create new google sheet and link AppScript with bel
    My Ref- https://www.youtube.com/watch?v=ovYHbxe4E5w
 ## Demo
 
-Insert gif or link to demo
+https://www.loom.com/share/7c7b23d81b76429f9855b5bce7ad02d0
 
 
 ## Tech Stack
